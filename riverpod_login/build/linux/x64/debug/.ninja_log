@@ -1,0 +1,28 @@
+# ninja log v5
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/libflutter_linux_gtk.so	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_engine.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_value.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/fl_view.h	12fa52abc7a8ad38
+0	26863	0	/home/jackson/Desktop/Dart Beg/riverpod_login/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	12fa52abc7a8ad38
+0	26863	0	flutter/_phony_	12fa52abc7a8ad38
+26869	28973	1685949639293002157	CMakeFiles/flutter_login.dir/flutter/generated_plugin_registrant.cc.o	e9955ef33ef5176c
+26867	29082	1685949639424999942	CMakeFiles/flutter_login.dir/main.cc.o	a18e1504630fee86
+26869	29095	1685949639432999807	CMakeFiles/flutter_login.dir/my_application.cc.o	be0e8f87ea7385b4
+29095	29486	1685949639832993091	intermediates_do_not_run/flutter_login	1272ca4db422ec26
+29486	29877	0	CMakeFiles/install.util	a0480a4d2806f9b4
